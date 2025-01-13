@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = NFe.Danfe.Html.New
-build_property.ProjectDir = C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\NFe.Danfe.Html.New\
+build_property.ProjectDir = c:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\NFe.Danfe.Html.New\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

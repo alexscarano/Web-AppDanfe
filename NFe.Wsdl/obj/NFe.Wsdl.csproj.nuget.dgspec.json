@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj": {}
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
         "projectName": "DFe.Classes",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
+        "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -129,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj",
         "projectName": "DFe.Utils",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj",
+        "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -160,24 +160,24 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
               }
             }
           },
           "net462": {
             "targetAlias": "net462",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
               }
             }
           }
@@ -311,33 +311,33 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               }
             }
           },
           "net462": {
             "targetAlias": "net462",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               }
             }
           }
@@ -426,14 +426,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj",
         "projectName": "NFe.Classes",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj",
+        "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -457,24 +457,24 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               }
             }
           },
           "net462": {
             "targetAlias": "net462",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               }
             }
           }
@@ -563,14 +563,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj": {
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj",
         "projectName": "NFe.Utils",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj",
+        "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -594,33 +594,33 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
               }
             }
           },
           "net462": {
             "targetAlias": "net462",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
               }
             }
           }
@@ -709,14 +709,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj": {
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj",
         "projectName": "NFe.Wsdl",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj",
+        "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -738,20 +738,20 @@
           "net462": {
             "targetAlias": "net462",
             "projectReferences": {
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Utils\\DFe.Utils.csproj"
               },
               "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Wsdl\\DFe.Wsdl.csproj": {
                 "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Wsdl\\DFe.Wsdl.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Classes\\NFe.Classes.csproj"
               },
-              "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj": {
-                "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj"
+              "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj": {
+                "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Utils\\NFe.Utils.csproj"
               }
             }
           }

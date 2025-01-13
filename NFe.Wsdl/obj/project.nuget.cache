@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+Sydz9Yk4k=",
+  "dgSpecHash": "S89oZmmWjgs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj",
+  "projectFilePath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl\\NFe.Wsdl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512",

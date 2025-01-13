@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {}
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
+    "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
         "projectName": "DFe.Classes",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
+        "projectPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\DFe.Classes.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\DFe.Classes\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

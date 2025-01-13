@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApp.NFe.Html")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6fac7ff8d64fd03df1f7442cbac406a845f5ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c475969a683fef6e636c9aa441296d20a4ff420")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApp.NFe.Html")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApp.NFe.Html")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

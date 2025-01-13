@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fcohbBXVZRg=",
+  "dgSpecHash": "XbMWD7G1PdI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl.Standard\\NFe.Wsdl.Standard.csproj",
+  "projectFilePath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Wsdl.Standard\\NFe.Wsdl.Standard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

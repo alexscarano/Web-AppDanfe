@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NFe.Danfe.Nativo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195b5b7c17fc17dd52e74de8f79aea22c15b1515")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c475969a683fef6e636c9aa441296d20a4ff420")]
 [assembly: System.Reflection.AssemblyProductAttribute("NFe.Danfe.Nativo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NFe.Danfe.Nativo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QsbExnspWvQ=",
+  "dgSpecHash": "4hL9B7X4VN8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Danfe.Base\\NFe.Danfe.Base.csproj",
+  "projectFilePath": "c:\\Users\\alexa\\OneDrive\\Documents\\Alexandre\\dotnet\\Danfe.Html\\NFe.Danfe.Base\\NFe.Danfe.Base.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
