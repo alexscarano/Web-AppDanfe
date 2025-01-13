@@ -1,0 +1,16 @@
+C:/Users/alexa/source/repos/DFe.NET/Dev.VersaoAssemblies/bin/Debug/Dev.VersaoAssemblies.exe.config
+C:/Users/alexa/source/repos/DFe.NET/Dev.VersaoAssemblies/bin/Debug/Dev.VersaoAssemblies.exe
+C:/Users/alexa/source/repos/DFe.NET/Dev.VersaoAssemblies/bin/Debug/Dev.VersaoAssemblies.pdb
+C:/Users/alexa/source/repos/DFe.NET/Dev.VersaoAssemblies/obj/Debug/Dev.VersaoAssemblies.csproj.AssemblyReference.cache
+C:/Users/alexa/source/repos/DFe.NET/Dev.VersaoAssemblies/obj/Debug/Dev.VersaoAssemblies.csproj.CoreCompileInputs.cache
+C:/Users/alexa/source/repos/DFe.NET/Dev.VersaoAssemblies/obj/Debug/Dev.VersaoAssemblies.exe
+C:/Users/alexa/source/repos/DFe.NET/Dev.VersaoAssemblies/obj/Debug/Dev.VersaoAssemblies.pdb
+/home/floppydisk/Trabalho/Danfe.Html/Dev.VersaoAssemblies/obj/Debug/Dev.VersaoAssemblies.exe
+/home/floppydisk/Trabalho/Danfe.Html/Dev.VersaoAssemblies/obj/Debug/Dev.VersaoAssemblies.pdb
+C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\Dev.VersaoAssemblies\bin\Debug\Dev.VersaoAssemblies.exe.config
+C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\Dev.VersaoAssemblies\bin\Debug\Dev.VersaoAssemblies.exe
+C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\Dev.VersaoAssemblies\bin\Debug\Dev.VersaoAssemblies.pdb
+C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\Dev.VersaoAssemblies\obj\Debug\Dev.VersaoAssemblies.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\Dev.VersaoAssemblies\obj\Debug\Dev.VersaoAssemblies.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\Dev.VersaoAssemblies\obj\Debug\Dev.VersaoAssemblies.exe
+C:\Users\alexa\OneDrive\Documents\Alexandre\dotnet\Danfe.Html\Dev.VersaoAssemblies\obj\Debug\Dev.VersaoAssemblies.pdb
