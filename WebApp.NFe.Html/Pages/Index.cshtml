@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@* <div class="text-center">
+    @Html.Raw(Model.HtmlContent)
+</div> *@
+
+<div id="resultado">
+    @if (!string.IsNullOrEmpty(Model.HtmlContent))
+    {
+        @Html.Raw(Model.HtmlContent)
+    }
+</div>
